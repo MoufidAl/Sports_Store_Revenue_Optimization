@@ -195,9 +195,9 @@ Our final task, I wanted to examine how median revenue differs to clothing produ
 
 7. **<p> product reviews are highest in the first quarter of the calendar year, so there is scope to run experiments aiming to increase the volume of reviews in the other nine months!</p>**
 
-8. **<P> there are 3,117 products without missing values for <code>description</code>. Of those, 2,700 are footwear products, which accounts for around 85% of the company's stock. They also generate a median revenue of over $3000 dollars!</p>
+8. **<P> there are 3,117 products without missing values for <code>description</code>. Of those, 2,700 are footwear products, which accounts for around 85% of the company's stock. They also generate a median revenue of over $3000 dollars!</p>**
 
-
+9. **On the Oppposite end, the median revenue for clothing products is only $503. this can be looked at in two ways: there is plenty of room for growth on clothing lines for both brands, and two if the goal is to optimize the revenue short term then focusing on footwear would yield the best ROI, however, if there is a considerable time-frame then allocating resources to clothing lines would be more benefical in the long-term.**
 
 
 ## Project Idea Source:
